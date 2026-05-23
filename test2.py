@@ -1,2 +1,3 @@
 print("sdiihant")
-pritn ("suryawanshi")
+print  ("suryawanshi")
+print ("32")
